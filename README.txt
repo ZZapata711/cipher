@@ -1,4 +1,6 @@
 'Caesar Cipher' 
 'To Run: Boot irb''
-'load './caesar_cipher.rb' '
-'Run function 'caesar_cipher(message,key)' where message is string and key in integer'
+'load './cipher.rb' '
+'Input string to be encrypted'
+'Input integer key'
+'Encrypted and Decrypted string will be printed'
